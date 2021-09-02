@@ -7,7 +7,7 @@ const mail = (email) => {
         service: 'gmail',
         auth: {
             user: 'gs9708448@gmail.com',
-            pass: '123lmnop99'
+            pass: ''
         }});
         const mailOptions = {
             from: 'gs9708448@gmail.com',
